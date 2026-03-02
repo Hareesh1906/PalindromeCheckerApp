@@ -1,4 +1,2 @@
-package PACKAGE_NAME;
-
-public class UseCase2PalindromeCheckerApp {
+class UseCase2PalindromeCheckerApp {
 }
